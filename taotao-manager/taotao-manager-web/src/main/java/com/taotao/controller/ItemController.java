@@ -11,7 +11,7 @@ import com.taotao.pojo.TbItem;
 import com.taotao.service.ItemService;
 
 
-@Controller //商品管理controller
+@Controller //商品管理controller   
 public class ItemController {
 	
 	@Autowired
